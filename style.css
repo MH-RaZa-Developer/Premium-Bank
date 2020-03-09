@@ -1,0 +1,38 @@
+body{
+	margin:0;
+}
+#login-area{
+	padding:100px;
+}
+.submit-area{
+	margin: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#transaction-area{
+	margin-top:50px;
+	display:none;
+}
+.common{
+	padding:30px;
+	margin:0 20px;
+	color:#fff;
+	font-family:calibria;
+	text-align:center;
+}
+.common h5{
+	font-size:34px;
+}
+.common h2{
+	font-weight:bold;
+}
+.deposit{
+	background:blue;
+}
+.withdraw{
+	background:red;
+}
+.balance{
+	background:green;
+}
